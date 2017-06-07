@@ -1,0 +1,11 @@
+-Functions
+devices that take inputs as variables and run code to produce an output
+
+-Parameters
+are the place holders with in the function parenthesis that take in values to execute the code
+
+-Arguments
+are values that are passed into the parameters within the function
+
+-If statements
+control the flow of the function. if 'this' run this code' else run 'this' code.  
